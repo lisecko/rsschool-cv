@@ -20,7 +20,7 @@ I want to become a good JS-programmer in the famous belorussian company.
 ### Code examples
 
 ```
-onst printReversName = (name) => {
+const printReversName = (name) => {
   let i = name.length - 1;
   while(i >= 0)
   {
@@ -36,7 +36,7 @@ Laboratory works and cource works in the college.
 
 ### Education
 
-College of Electronics
+College of Electronics.
 
 ### English
 

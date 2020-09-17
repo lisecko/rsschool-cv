@@ -1,0 +1,33 @@
+.info {
+  width: 40%;
+  min-height: 50px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: #D7DADD;
+  padding-left: 3%;
+  margin-bottom: 10px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+.code {
+  width: 60%;
+  min-height: 50px;
+  margin-right: 40%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  background-color: white;
+}
+
+#name {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  width: 40%;
+  margin-left: 10%;
+}
+
+#image { margin-top: 20px; }

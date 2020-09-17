@@ -2,7 +2,7 @@
 
 ### Contacts
 
-* Gmail: lisetskywlad@gmail.com
+* Gmail: lisetskiywlad@gmail.com
 
 ### Goals
 
